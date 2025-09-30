@@ -412,7 +412,7 @@ void MudarSelecionado(int direcao){
 }
 
 void MenuRecorde(){
-    char textoRecorde[33];
+    char textoRecorde[34];
     char textoPontos[50];
     sprintf(textoRecorde, "Sua pontuacao recorde nesse jogo:");
     sprintf(textoPontos, "%d", recorde);
